@@ -1,7 +1,7 @@
 
 {
   "spider": "./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  
 
 "lives":[{"name":"live","type":0,"url":"./live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -21,7 +21,7 @@
 
 {"key":"阿里云盘","name": "阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./ali.jar"},
 
-],
+]，
 
 
 
