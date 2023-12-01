@@ -1,6 +1,6 @@
 
 {
-"spider":"./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
+"spider":"./fty.jar;md5;ea2690fc66083afe1431071968e60395",
 
 "lives":[{"name":"live","type":0,"url":"./live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
