@@ -1,6 +1,6 @@
 
 {
-"spider":"./fty.jar;md5;ea2690fc66083afe1431071968e60395",
+"spider":"./fty.jar",
 
 "lives":[{"name":"live","type":0,"url":"./live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -24,7 +24,7 @@
 
 {"key":"阿里云盘","name": "阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./ali.jar"},
 
-],
+]，
 
 
 
