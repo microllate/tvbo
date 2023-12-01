@@ -7,7 +7,15 @@
 
 
 "sites":[
-
+    {
+      "key": "豆豆",
+      "name": "我的电视",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
 
 
 ],
