@@ -39,7 +39,7 @@
     },
     {
       "key": "77",
-      "name": "👒七七┃App",
+      "name": "七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -47,15 +47,14 @@
       "changeable": 1
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "key": "一起看 ",
+      "name": "一起┃App",
       "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
+      "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }
+    },
 
 
 ],
