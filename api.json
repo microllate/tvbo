@@ -65,6 +65,13 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+    "key":"爱奇异",
+    "name":"爱奇艺",
+    "type":3,
+    "api":"./drpy2.min.js",
+    "ext":"./aiqiyi.js"
     }
 
 
